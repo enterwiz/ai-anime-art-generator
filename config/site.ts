@@ -2,13 +2,13 @@ import { SiteConfig } from "@/types/siteConfig";
 import { BsGithub, BsTwitterX } from "react-icons/bs";
 import { MdEmail } from "react-icons/md";
 
-const OPEN_SOURCE_URL = "https://github.com/enterwiz/";
+const OPEN_SOURCE_URL = "https://github.com/enterwiz/aianimeartgenerator";
 
 const baseSiteConfig = {
   name: "AI Anime Art Generator | Create stunning anime art with the power of AI.",
   description:
     "Unleash your creativity and craft breathtaking anime art effortlessly with our advanced AI-powered generator.",
-  url: "https://ai-anime-art-generator.com",
+  url: "https://aianimeartgenerator.com",
   ogImage: "",
   metadataBase: "/",
   keywords: [

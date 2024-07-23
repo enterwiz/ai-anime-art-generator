@@ -1,8 +1,12 @@
-# [AI Anime Art Generator](https://aianimeartgenerator.com)
+# AI Anime Art Generator
 
 Welcome to the codebase of the wonderful tool AI Anime Arg Generator!
 
 AI Anime Art Generator is an AI-driven cutting-edge tool for anime arts creation. Perfect for beginners to easily create stunning anime art without any prior experience.
+
+website: [https://aianimeartgenerator.com](https://aianimeartgenerator.com)
+
+![AI Anime Art Generator](https://i.imgur.com/nwXhYnQ.png)
 
 ## Use Cases
 

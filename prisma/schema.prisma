@@ -1,0 +1,36 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider     = "prisma-kysely"
+  output       = "."
+  fileName     = "types.ts"
+  enumFileName = "enums.ts"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Picture {
+  id        String        @id @default(dbgenerated("gen_random_uuid()"))
+  userId    String        @db.VarChar(255)
+  prompt    String        @db.VarChar(8192)
+  tags      String[]
+  params    Json
+  url       String        @db.VarChar(4096)
+  status    PictureStatus
+  createdAt DateTime      @default(now())
+  updatedAt DateTime      @default(now())
+}
+
+enum PictureStatus {
+  UNKNOWN
+  GENERATING
+  ONLINE
+  DELETED
+}

@@ -1,0 +1,44 @@
+{
+  "Hero": {
+    "title1": "AI",
+    "title2": "Anime Art",
+    "title3": "Generator",
+    "description": "AI-driven cutting-edge for anime arts creation. Perfect for beginners to easily create stunning anime art without any prior experience."
+  },
+  "SocialProof": {
+    "maker": "create stunning anime arts with AI"
+  },
+  "Feature": {
+    "title": "Features"
+  },
+  "Pricing": {
+    "title": "Pricing",
+    "title2": "Get unlimited access.",
+    "description": "Unlock all the features of this tool.",
+    "doYouLike": "Do you like this tool?",
+    "follow": "Follow my Twitter."
+  },
+  "WallOfLove": {
+    "title": "Wall of Love",
+    "description1": "If you use this tool and recommend it on your Twitter,",
+    "description2": "please let me know",
+    "description3": ". I will display your tweet and recommendation here."
+  },
+  "FAQ": {
+    "title": "FAQ",
+    "description": "Here are some of the most frequently asked questions."
+  },
+  "CTA": {
+    "title": "Create Your Anime Art Now",
+    "description1": "Create",
+    "description2": "your anime pictures,",
+    "description3": "customize",
+    "description4": "your scenes, and",
+    "description5": "bring",
+    "description6": " your anime vision to life!"
+  },
+  "CTAButton": {
+    "title": "Generate Your Picture"
+  }
+}
+

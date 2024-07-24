@@ -34,4 +34,23 @@ AI Anime Art Generator is built on the following stack:
 - CloudFlare R2 - Image Storage
 - Clerk - User Login
 
+## Deployment
+
+Clone the codebase to your local machine.
+
+```bash
+git clone https://github.com/enterwiz/ai-anime-art-generator.git
+cd ai-anime-art-generator
+```
+
+Copy the .env.example file to .env.local, fill in the environment variables, and then run:
+
+```bash
+npm run dev
+```
+
+Then open your local website: http://localhost:3000 .
+
+## Acknowledgements
+
 This project heavily references another project [Landing page boilerplate](https://landingpage.weijunext.com/), and we are very grateful for their support.

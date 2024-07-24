@@ -43,13 +43,22 @@ git clone https://github.com/enterwiz/ai-anime-art-generator.git
 cd ai-anime-art-generator
 ```
 
-Copy the .env.example file to .env.local, fill in the environment variables, and then run:
+Initialize your local postgres database or use remote Supabase database.
+
+```bash
+export DATABASE_URL=your_local_postgres_connstr
+npx prisma migrate dev
+```
+
+Copy the .env.example file to .env.local, fill in the environment variables.
+
+Then you can run the project locally:
 
 ```bash
 npm run dev
 ```
 
-Then open your local website: http://localhost:3000 .
+Open your local website: http://localhost:3000.
 
 ## Acknowledgements
 

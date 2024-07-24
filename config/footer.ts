@@ -33,6 +33,11 @@ export const footerData: FooterProps = {
           title: "Gen AI Prism Tools Directory",
           href: "https://genaiprism.site/",
         },
+        {
+          name: "Tap4 AI Tools Diresctory",
+          title: "Tap4 AI Tools Directory",
+          href: "https://tap4.ai/",
+        }
       ],
     },
     {

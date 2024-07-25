@@ -1,44 +1,43 @@
 {
   "Hero": {
-    "title1": "AI",
-    "title2": "Anime Art",
-    "title3": "Generator",
-    "description": "AI-driven cutting-edge for anime arts creation. Perfect for beginners to easily create stunning anime art without any prior experience."
+    "title1": "الذكاء الاصطناعي",
+    "title2": "فن الأنمي",
+    "title3": "مولّد",
+    "description": "تقنية متطورة مدعومة بالذكاء الاصطناعي لإنشاء فن الأنمي. مثالية للمبتدئين لإنشاء فن أنمي مذهل بسهولة دون أي خبرة سابقة."
   },
   "SocialProof": {
-    "maker": "create stunning anime arts with AI"
+    "maker": "إنشاء فنون أنمي مذهلة باستخدام الذكاء الاصطناعي"
   },
   "Feature": {
-    "title": "Features"
+    "title": "الميزات"
   },
   "Pricing": {
-    "title": "Pricing",
-    "title2": "Get unlimited access.",
-    "description": "Unlock all the features of this tool.",
-    "doYouLike": "Do you like this tool?",
-    "follow": "Follow my Twitter."
+    "title": "التسعير",
+    "title2": "احصل على وصول غير محدود.",
+    "description": "افتح جميع ميزات هذه الأداة.",
+    "doYouLike": "هل أعجبتك هذه الأداة؟",
+    "follow": "تابعني على تويتر."
   },
   "WallOfLove": {
-    "title": "Wall of Love",
-    "description1": "If you use this tool and recommend it on your Twitter,",
-    "description2": "please let me know",
-    "description3": ". I will display your tweet and recommendation here."
+    "title": "جدار الحب",
+    "description1": "إذا استخدمت هذه الأداة وأوصيت بها على تويتر،",
+    "description2": "يرجى إخباري",
+    "description3": ". سأعرض تغريدتك وتوصيتك هنا."
   },
   "FAQ": {
-    "title": "FAQ",
-    "description": "Here are some of the most frequently asked questions."
+    "title": "الأسئلة الشائعة",
+    "description": "هنا بعض الأسئلة الأكثر شيوعًا."
   },
   "CTA": {
-    "title": "Create Your Anime Art Now",
-    "description1": "Create",
-    "description2": "your anime pictures,",
-    "description3": "customize",
-    "description4": "your scenes, and",
-    "description5": "bring",
-    "description6": " your anime vision to life!"
+    "title": "أنشئ فن الأنمي الخاص بك الآن",
+    "description1": "أنشئ",
+    "description2": "صور الأنمي الخاصة بك،",
+    "description3": "خصص",
+    "description4": "مشاهدك، و",
+    "description5": "حقق",
+    "description6": "رؤيتك للأنمي!"
   },
   "CTAButton": {
-    "title": "Generate Your Picture"
+    "title": "ولّد صورتك"
   }
 }
-

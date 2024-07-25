@@ -1,44 +1,43 @@
 {
   "Hero": {
-    "title1": "AI",
-    "title2": "Anime Art",
-    "title3": "Generator",
-    "description": "AI-driven cutting-edge for anime arts creation. Perfect for beginners to easily create stunning anime art without any prior experience."
+    "title1": "ИИ",
+    "title2": "Аниме-арт",
+    "title3": "Генератор",
+    "description": "Передовая технология на базе ИИ для создания аниме-арта. Идеально подходит для начинающих, чтобы легко создавать потрясающий аниме-арт без какого-либо опыта."
   },
   "SocialProof": {
-    "maker": "create stunning anime arts with AI"
+    "maker": "Создавайте потрясающий аниме-арт с помощью ИИ"
   },
   "Feature": {
-    "title": "Features"
+    "title": "Функции"
   },
   "Pricing": {
-    "title": "Pricing",
-    "title2": "Get unlimited access.",
-    "description": "Unlock all the features of this tool.",
-    "doYouLike": "Do you like this tool?",
-    "follow": "Follow my Twitter."
+    "title": "Цены",
+    "title2": "Получите неограниченный доступ.",
+    "description": "Разблокируйте все функции этого инструмента.",
+    "doYouLike": "Вам нравится этот инструмент?",
+    "follow": "Подпишитесь на меня в Twitter."
   },
   "WallOfLove": {
-    "title": "Wall of Love",
-    "description1": "If you use this tool and recommend it on your Twitter,",
-    "description2": "please let me know",
-    "description3": ". I will display your tweet and recommendation here."
+    "title": "Стена любви",
+    "description1": "Если вы использовали этот инструмент и рекомендовали его в Twitter,",
+    "description2": "пожалуйста, дайте мне знать",
+    "description3": ". Я покажу ваш твит и рекомендацию здесь."
   },
   "FAQ": {
-    "title": "FAQ",
-    "description": "Here are some of the most frequently asked questions."
+    "title": "Часто задаваемые вопросы",
+    "description": "Вот некоторые из наиболее часто задаваемых вопросов."
   },
   "CTA": {
-    "title": "Create Your Anime Art Now",
-    "description1": "Create",
-    "description2": "your anime pictures,",
-    "description3": "customize",
-    "description4": "your scenes, and",
-    "description5": "bring",
-    "description6": " your anime vision to life!"
+    "title": "Создайте свой аниме-арт прямо сейчас",
+    "description1": "Создавайте",
+    "description2": "свои аниме-изображения,",
+    "description3": "Настраивайте",
+    "description4": "свои сцены и",
+    "description5": "Воплощайте",
+    "description6": "свое аниме-видение!"
   },
   "CTAButton": {
-    "title": "Generate Your Picture"
+    "title": "Сгенерировать изображение"
   }
 }
-

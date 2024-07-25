@@ -1,44 +1,43 @@
 {
   "Hero": {
-    "title1": "AI",
-    "title2": "Anime Art",
-    "title3": "Generator",
-    "description": "AI-driven cutting-edge for anime arts creation. Perfect for beginners to easily create stunning anime art without any prior experience."
+    "title1": "एआई",
+    "title2": "एनिमे आर्ट",
+    "title3": "जनरेटर",
+    "description": "एनिमे कला निर्माण के लिए एआई-संचालित अत्याधुनिक तकनीक। शुरुआती लोगों के लिए बिना किसी पूर्व अनुभव के आसानी से शानदार एनिमे कला बनाने के लिए एकदम सही।"
   },
   "SocialProof": {
-    "maker": "create stunning anime arts with AI"
+    "maker": "एआई के साथ शानदार एनिमे कला बनाएं"
   },
   "Feature": {
-    "title": "Features"
+    "title": "विशेषताएं"
   },
   "Pricing": {
-    "title": "Pricing",
-    "title2": "Get unlimited access.",
-    "description": "Unlock all the features of this tool.",
-    "doYouLike": "Do you like this tool?",
-    "follow": "Follow my Twitter."
+    "title": "मूल्य निर्धारण",
+    "title2": "असीमित पहुंच प्राप्त करें।",
+    "description": "इस टूल की सभी सुविधाओं को अनलॉक करें।",
+    "doYouLike": "क्या आपको यह टूल पसंद है?",
+    "follow": "मेरे ट्विटर को फॉलो करें।"
   },
   "WallOfLove": {
-    "title": "Wall of Love",
-    "description1": "If you use this tool and recommend it on your Twitter,",
-    "description2": "please let me know",
-    "description3": ". I will display your tweet and recommendation here."
+    "title": "प्रेम की दीवार",
+    "description1": "यदि आप इस टूल का उपयोग करते हैं और इसे अपने ट्विटर पर अनुशंसित करते हैं,",
+    "description2": "तो कृपया मुझे बताएं",
+    "description3": "। मैं आपके ट्वीट और अनुशंसा को यहां प्रदर्शित करूंगा।"
   },
   "FAQ": {
-    "title": "FAQ",
-    "description": "Here are some of the most frequently asked questions."
+    "title": "अक्सर पूछे जाने वाले प्रश्न",
+    "description": "यहां कुछ सबसे अधिक पूछे जाने वाले प्रश्न हैं।"
   },
   "CTA": {
-    "title": "Create Your Anime Art Now",
-    "description1": "Create",
-    "description2": "your anime pictures,",
-    "description3": "customize",
-    "description4": "your scenes, and",
-    "description5": "bring",
-    "description6": " your anime vision to life!"
+    "title": "अभी अपना एनिमे आर्ट बनाएं",
+    "description1": "बनाएं",
+    "description2": "अपनी एनिमे तस्वीरें,",
+    "description3": "अनुकूलित करें",
+    "description4": "अपने दृश्य, और",
+    "description5": "साकार करें",
+    "description6": "अपने एनिमे विजन को!"
   },
   "CTAButton": {
-    "title": "Generate Your Picture"
+    "title": "अपनी तस्वीर जनरेट करें"
   }
 }
-

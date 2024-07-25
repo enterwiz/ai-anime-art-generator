@@ -1,44 +1,43 @@
 {
   "Hero": {
     "title1": "AI",
-    "title2": "Anime Art",
-    "title3": "Generator",
-    "description": "AI-driven cutting-edge for anime arts creation. Perfect for beginners to easily create stunning anime art without any prior experience."
+    "title2": "アニメアート",
+    "title3": "ジェネレーター",
+    "description": "アニメアート制作のための最先端AIテクノロジー。初心者でも簡単に、経験がなくても素晴らしいアニメアートを作成できます。"
   },
   "SocialProof": {
-    "maker": "create stunning anime arts with AI"
+    "maker": "AIで素晴らしいアニメアートを作成"
   },
   "Feature": {
-    "title": "Features"
+    "title": "特徴"
   },
   "Pricing": {
-    "title": "Pricing",
-    "title2": "Get unlimited access.",
-    "description": "Unlock all the features of this tool.",
-    "doYouLike": "Do you like this tool?",
-    "follow": "Follow my Twitter."
+    "title": "料金プラン",
+    "title2": "無制限アクセスを取得。",
+    "description": "このツールのすべての機能をアンロック。",
+    "doYouLike": "このツールが気に入りましたか？",
+    "follow": "私のTwitterをフォローしてください。"
   },
   "WallOfLove": {
-    "title": "Wall of Love",
-    "description1": "If you use this tool and recommend it on your Twitter,",
-    "description2": "please let me know",
-    "description3": ". I will display your tweet and recommendation here."
+    "title": "ラブウォール",
+    "description1": "このツールを使用し、Twitterで推奨していただいた場合、",
+    "description2": "お知らせください",
+    "description3": "。あなたのツイートと推薦をここに表示します。"
   },
   "FAQ": {
-    "title": "FAQ",
-    "description": "Here are some of the most frequently asked questions."
+    "title": "よくある質問",
+    "description": "こちらは最もよく寄せられる質問です。"
   },
   "CTA": {
-    "title": "Create Your Anime Art Now",
-    "description1": "Create",
-    "description2": "your anime pictures,",
-    "description3": "customize",
-    "description4": "your scenes, and",
-    "description5": "bring",
-    "description6": " your anime vision to life!"
+    "title": "今すぐアニメアートを作成",
+    "description1": "作成",
+    "description2": "あなたのアニメ画像を",
+    "description3": "カスタマイズ",
+    "description4": "あなたのシーンを、そして",
+    "description5": "実現",
+    "description6": "あなたのアニメビジョンを！"
   },
   "CTAButton": {
-    "title": "Generate Your Picture"
+    "title": "画像を生成する"
   }
 }
-

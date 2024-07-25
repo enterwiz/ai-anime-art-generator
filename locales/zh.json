@@ -1,44 +1,43 @@
 {
   "Hero": {
     "title1": "AI",
-    "title2": "Anime Art",
-    "title3": "Generator",
-    "description": "AI-driven cutting-edge for anime arts creation. Perfect for beginners to easily create stunning anime art without any prior experience."
+    "title2": "动漫艺术",
+    "title3": "生成器",
+    "description": "AI驱动的动漫艺术创作工具。适合初学者，无需任何经验即可轻松创作令人惊叹的动漫艺术。"
   },
   "SocialProof": {
-    "maker": "create stunning anime arts with AI"
+    "maker": "用AI创作令人惊叹的动漫艺术"
   },
   "Feature": {
-    "title": "Features"
+    "title": "功能特点"
   },
   "Pricing": {
-    "title": "Pricing",
-    "title2": "Get unlimited access.",
-    "description": "Unlock all the features of this tool.",
-    "doYouLike": "Do you like this tool?",
-    "follow": "Follow my Twitter."
+    "title": "定价",
+    "title2": "获得无限访问权限",
+    "description": "解锁此工具的所有功能",
+    "doYouLike": "你喜欢这个工具吗？",
+    "follow": "关注我的Twitter。"
   },
   "WallOfLove": {
-    "title": "Wall of Love",
-    "description1": "If you use this tool and recommend it on your Twitter,",
-    "description2": "please let me know",
-    "description3": ". I will display your tweet and recommendation here."
+    "title": "赞美墙",
+    "description1": "如果你使用这个工具并在Twitter上推荐它，",
+    "description2": "请告诉我。",
+    "description3": "我会在这里展示你的推文和推荐。"
   },
   "FAQ": {
-    "title": "FAQ",
-    "description": "Here are some of the most frequently asked questions."
+    "title": "常见问题",
+    "description": "这里是一些最常见的问题。"
   },
   "CTA": {
-    "title": "Create Your Anime Art Now",
-    "description1": "Create",
-    "description2": "your anime pictures,",
-    "description3": "customize",
-    "description4": "your scenes, and",
-    "description5": "bring",
-    "description6": " your anime vision to life!"
+    "title": "立即创作你的动漫艺术",
+    "description1": "创作",
+    "description2": "你的动漫图片，",
+    "description3": "定制",
+    "description4": "你的场景，并",
+    "description5": "实现",
+    "description6": "你的动漫愿望！"
   },
   "CTAButton": {
-    "title": "Generate Your Picture"
+    "title": "生成图片"
   }
 }
-

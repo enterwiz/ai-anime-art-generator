@@ -14,7 +14,7 @@ export const FEATURES_EN = [
   {
     title: "AI-Powered Art Creation",
     content:
-      "Generate high-quality anime characters and scenes using advanced AI algorithms.",
+      "Generate high-quality anime art characters and scenes using advanced AI algorithms.",
     icon: AiOutlineTag,
   },
   {
@@ -26,24 +26,24 @@ export const FEATURES_EN = [
   {
     title: "User-Friendly Interface",
     content:
-      "Easy-to-use platform suitable for both beginners and professionals.",
+      "Easy-to-use anime art platform suitable for both beginners and professionals.",
     icon: AiOutlineUser,
   },
   {
     title: "Fast Generation",
-    content: "Produce artwork in seconds, saving you time and effort.",
+    content: "Produce anime art in seconds, saving you time and effort.",
     icon: AiOutlineClockCircle,
   },
   {
     title: "Community Sharing",
     content:
-      "Share your creations with a vibrant community of anime art enthusiasts.",
+      "Share your anime art with a vibrant community of anime art enthusiasts.",
     icon: AiOutlineShareAlt,
   },
   {
     title: "High-Resolution Outputs",
     content:
-      "Export your artwork in high resolution for professional use and printing.",
+      "Export your anime art in high resolution for professional use and printing.",
     icon: AiOutlineStar,
   },
 ];
@@ -84,7 +84,8 @@ export const FEATURES_ZH = [
 export const FEATURES_JA = [
   {
     title: "AI駆動のアート制作",
-    content: "高度なAIアルゴリズムを使用して、高品質のアニメキャラクターやシーンを生成します。",
+    content:
+      "高度なAIアルゴリズムを使用して、高品質のアニメキャラクターやシーンを生成します。",
     icon: AiOutlineTag,
   },
   {
@@ -117,7 +118,8 @@ export const FEATURES_JA = [
 export const FEATURES_AR = [
   {
     title: "إنشاء الفن بواسطة الذكاء الاصطناعي",
-    content: "توليد شخصيات ومشاهد أنمي عالية الجودة باستخدام خوارزميات الذكاء الاصطناعي المتقدمة.",
+    content:
+      "توليد شخصيات ومشاهد أنمي عالية الجودة باستخدام خوارزميات الذكاء الاصطناعي المتقدمة.",
     icon: AiOutlineTag,
   },
   {
@@ -150,32 +152,38 @@ export const FEATURES_AR = [
 export const FEATURES_ES = [
   {
     title: "Creación de arte impulsada por IA",
-    content: "Genera personajes y escenas de anime de alta calidad utilizando algoritmos avanzados de IA.",
+    content:
+      "Genera personajes y escenas de anime de alta calidad utilizando algoritmos avanzados de IA.",
     icon: AiOutlineTag,
   },
   {
     title: "Opciones de personalización",
-    content: "Personaliza tus creaciones con varios estilos, colores y expresiones.",
+    content:
+      "Personaliza tus creaciones con varios estilos, colores y expresiones.",
     icon: AiOutlineEdit,
   },
   {
     title: "Interfaz fácil de usar",
-    content: "Plataforma fácil de usar adecuada tanto para principiantes como para profesionales.",
+    content:
+      "Plataforma fácil de usar adecuada tanto para principiantes como para profesionales.",
     icon: AiOutlineUser,
   },
   {
     title: "Generación rápida",
-    content: "Produce obras de arte en segundos, ahorrándote tiempo y esfuerzo.",
+    content:
+      "Produce obras de arte en segundos, ahorrándote tiempo y esfuerzo.",
     icon: AiOutlineClockCircle,
   },
   {
     title: "Compartir en comunidad",
-    content: "Comparte tus creaciones con una vibrante comunidad de entusiastas del arte anime.",
+    content:
+      "Comparte tus creaciones con una vibrante comunidad de entusiastas del arte anime.",
     icon: AiOutlineShareAlt,
   },
   {
     title: "Salidas de alta resolución",
-    content: "Exporta tus obras de arte en alta resolución para uso profesional e impresión.",
+    content:
+      "Exporta tus obras de arte en alta resolución para uso profesional e impresión.",
     icon: AiOutlineStar,
   },
 ];
@@ -183,32 +191,38 @@ export const FEATURES_ES = [
 export const FEATURES_RU = [
   {
     title: "Создание искусства с помощью ИИ",
-    content: "Генерируйте высококачественных аниме-персонажей и сцены с использованием продвинутых алгоритмов ИИ.",
+    content:
+      "Генерируйте высококачественных аниме-персонажей и сцены с использованием продвинутых алгоритмов ИИ.",
     icon: AiOutlineTag,
   },
   {
     title: "Возможности настройки",
-    content: "Персонализируйте свои творения с помощью различных стилей, цветов и выражений.",
+    content:
+      "Персонализируйте свои творения с помощью различных стилей, цветов и выражений.",
     icon: AiOutlineEdit,
   },
   {
     title: "Удобный интерфейс",
-    content: "Простая в использовании платформа, подходящая как для начинающих, так и для профессионалов.",
+    content:
+      "Простая в использовании платформа, подходящая как для начинающих, так и для профессионалов.",
     icon: AiOutlineUser,
   },
   {
     title: "Быстрая генерация",
-    content: "Создавайте произведения искусства за секунды, экономя время и усилия.",
+    content:
+      "Создавайте произведения искусства за секунды, экономя время и усилия.",
     icon: AiOutlineClockCircle,
   },
   {
     title: "Обмен в сообществе",
-    content: "Делитесь своими творениями с активным сообществом энтузиастов аниме-искусства.",
+    content:
+      "Делитесь своими творениями с активным сообществом энтузиастов аниме-искусства.",
     icon: AiOutlineShareAlt,
   },
   {
     title: "Высокое разрешение",
-    content: "Экспортируйте свои работы в высоком разрешении для профессионального использования и печати.",
+    content:
+      "Экспортируйте свои работы в высоком разрешении для профессионального использования и печати.",
     icon: AiOutlineStar,
   },
 ];
@@ -216,36 +230,41 @@ export const FEATURES_RU = [
 export const FEATURES_HI = [
   {
     title: "AI-संचालित कला निर्माण",
-    content: "उन्नत AI एल्गोरिदम का उपयोग करके उच्च-गुणवत्ता वाले एनीमे चरित्रों और दृश्यों को उत्पन्न करें।",
+    content:
+      "उन्नत AI एल्गोरिदम का उपयोग करके उच्च-गुणवत्ता वाले एनीमे चरित्रों और दृश्यों को उत्पन्न करें।",
     icon: AiOutlineTag,
   },
   {
     title: "अनुकूलन विकल्प",
-    content: "विभिन्न शैलियों, रंगों और अभिव्यक्तियों के साथ अपनी रचनाओं को व्यक्तिगत बनाएं।",
+    content:
+      "विभिन्न शैलियों, रंगों और अभिव्यक्तियों के साथ अपनी रचनाओं को व्यक्तिगत बनाएं।",
     icon: AiOutlineEdit,
   },
   {
     title: "उपयोगकर्ता-अनुकूल इंटरफेस",
-    content: "शुरुआती और पेशेवरों दोनों के लिए उपयुक्त आसान-से-उपयोग वाला प्लेटफॉर्म।",
+    content:
+      "शुरुआती और पेशेवरों दोनों के लिए उपयुक्त आसान-से-उपयोग वाला प्लेटफॉर्म।",
     icon: AiOutlineUser,
   },
   {
     title: "तेज़ जनरेशन",
-    content: "सेकंडों में कलाकृतियाँ उत्पन्न करें, जिससे आपका समय और प्रयास बचेगा।",
+    content:
+      "सेकंडों में कलाकृतियाँ उत्पन्न करें, जिससे आपका समय और प्रयास बचेगा।",
     icon: AiOutlineClockCircle,
   },
   {
     title: "सामुदायिक साझाकरण",
-    content: "एनीमे कला के उत्साही लोगों के जीवंत समुदाय के साथ अपनी रचनाएँ साझा करें।",
+    content:
+      "एनीमे कला के उत्साही लोगों के जीवंत समुदाय के साथ अपनी रचनाएँ साझा करें।",
     icon: AiOutlineShareAlt,
   },
   {
     title: "उच्च-रिज़ॉल्यूशन आउटपुट",
-    content: "पेशेवर उपयोग और मुद्रण के लिए अपनी कलाकृतियों को उच्च रिज़ॉल्यूशन में निर्यात करें।",
+    content:
+      "पेशेवर उपयोग और मुद्रण के लिए अपनी कलाकृतियों को उच्च रिज़ॉल्यूशन में निर्यात करें।",
     icon: AiOutlineStar,
   },
 ];
-
 
 interface FeaturesCollection {
   [key: `FEATURES_${string}`]: {

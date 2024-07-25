@@ -2,7 +2,7 @@ import { SiteConfig } from "@/types/siteConfig";
 import { BsGithub, BsTwitterX } from "react-icons/bs";
 import { MdEmail } from "react-icons/md";
 
-const OPEN_SOURCE_URL = "https://github.com/enterwiz/aianimeartgenerator";
+const OPEN_SOURCE_URL = "https://github.com/enterwiz/ai-anime-art-generator";
 
 const baseSiteConfig = {
   name: "AI Anime Art Generator | Create stunning anime art with the power of AI.",

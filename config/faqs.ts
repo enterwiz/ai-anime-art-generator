@@ -7,7 +7,7 @@ export const FAQS_EN = [
   {
     title: "How does AI Anime Art Generator work?",
     content:
-      "The generator uses state-of-the-art machine learning algorithms to analyze and replicate the intricate details of anime art. Users can select various styles and expressions to generate unique anime artwork.",
+      "AI Anime Art Generator uses state-of-the-art machine learning algorithms to analyze and replicate the intricate details of anime art. Users can select various styles and expressions to generate unique anime artwork.",
   },
   {
     title: "Is AI Anime Art Generator free to use?",
@@ -22,7 +22,7 @@ export const FAQS_EN = [
   {
     title: "How fast can I generate artwork using AI Anime Art Generator?",
     content:
-      "The platform is designed for fast generation, allowing you to produce stunning anime art in a matter of seconds, saving you time and effort.",
+      "AI Anime Art Generator is designed for fast generation, allowing you to produce stunning anime art in a matter of seconds, saving you time and effort.",
   },
   {
     title: "Can I share my creations with others?",
@@ -32,7 +32,7 @@ export const FAQS_EN = [
   {
     title: "Is AI Anime Art Generator suitable for professional artists?",
     content:
-      "Yes, the tool is suitable for both hobbyists and professional artists. It can be used for a variety of purposes, including character design for anime and manga, custom avatars for social media, and professional art projects.",
+      "Yes, AI anime art generator is suitable for both hobbyists and professional artists. It can be used for a variety of purposes, including character design for anime and manga, custom avatars for social media, and professional art projects.",
   },
   {
     title: "What kind of support is available if I encounter issues?",

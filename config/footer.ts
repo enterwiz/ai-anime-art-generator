@@ -37,7 +37,12 @@ export const footerData: FooterProps = {
           name: "Tap4 AI Tools Diresctory",
           title: "Tap4 AI Tools Directory",
           href: "https://tap4.ai/",
-        }
+        },
+        {
+          name: "All in AI Tools",
+          title: "Explore the Best AI Tools",
+          href: "https://allinai.tools",
+        },
       ],
     },
     {

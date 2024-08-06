@@ -19,7 +19,7 @@ export async function findPictures(criteria: Partial<Selectable<Picture>>) {
   if (criteria.userId) {
     query = query.where("userId", "=", criteria.userId);
   }
-  return await query.selectAll().execute();
+  return await query.selectAll().orderBy("createdAt", "desc").execute();
 }
 
 export async function getTotalPicturesCount(): Promise<number> {

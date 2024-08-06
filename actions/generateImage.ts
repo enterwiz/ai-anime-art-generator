@@ -3,25 +3,28 @@ import { downloadAndUploadImage } from "@/lib/s3";
 import { PictureStatus } from "@/prisma/enums";
 import Replicate from "replicate";
 
-export async function generateImage(userId: string, prompt: string) {
+export async function generateImage(userId: string, userPrompt: string) {
   const replicate = new Replicate({
     auth: process.env.REPLICATE_API_TOKEN,
   });
 
   console.log("userId:", userId);
-  console.log("prompt:", prompt);
+  console.log("prompt:", userPrompt);
 
   const systemPrompt = process.env.PROMPT_PICTURE_STYLE || "manga style, ";
-  const input = systemPrompt + prompt;
+  const prompt = systemPrompt + userPrompt;
 
-  const output = await replicate.run(
-    "stability-ai/sdxl:39ed52f2a78e934b3ba6e2a89f5b1c712de7dfea535525255b1aa35c5565e08b",
-    {
-      input: {
-        prompt: input,
-      },
-    }
-  );
+  const input = {
+    prompt: prompt,
+    guidance: 3.5,
+    num_outputs: 1,
+    aspect_ratio: "1:1",
+    output_format: "png",
+    output_quality: 80,
+    prompt_strength: 0.8,
+  };
+
+  const output = await replicate.run("black-forest-labs/flux-dev", { input });
 
   if (Array.isArray(output) && output.length > 0) {
     const imageUrl = output[0];
@@ -32,7 +35,7 @@ export async function generateImage(userId: string, prompt: string) {
     // 保存到数据库
     const picture = {
       userId: userId,
-      prompt: prompt,
+      prompt: userPrompt,
       tags: tags,
       params: { input: input, tags: tags },
       url: url,

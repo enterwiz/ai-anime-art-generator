@@ -35,16 +35,14 @@ export default async function LangHome({
 
       <section className=" w-[95%] px-4 sm:px-6 lg:px-8 pb-8 pt-8 md:pt-12 space-y-6">
         <div className="flex justify-between items-center p-6">
-          <div className="bg-black">
-            <GoogleAdBanner
-              dataAdSlot="1230"
-              dataAdFormat="auto"
-              dataFullWidthResponsive={true}
-            />
-          </div>
+          <GoogleAdBanner
+            dataAdSlot="8169648646"
+            dataAdFormat="auto"
+            dataFullWidthResponsive={true}
+          />
           <ImageCarousel />
           <GoogleAdBanner
-            dataAdSlot="1231"
+            dataAdSlot="5833096089"
             dataAdFormat="auto"
             dataFullWidthResponsive={true}
           />

@@ -1,3 +1,4 @@
+import GoogleAdBanner from "@/components/GoogleAdBanner";
 import CTA from "@/components/home/CTA";
 import FAQ from "@/components/home/FAQ";
 import Feature from "@/components/home/Feature";
@@ -7,7 +8,7 @@ import ImageCarousel from "@/components/home/ImageCarousel";
 import Pricing from "@/components/home/Pricing";
 import ScrollingLogos from "@/components/home/ScrollingLogos";
 import SocialProof from "@/components/home/SocialProof";
-import { defaultLocale, getDictionary, localeNames } from "@/lib/i18n";
+import { defaultLocale, getDictionary } from "@/lib/i18n";
 
 export default async function LangHome({
   params: { lang },
@@ -32,7 +33,23 @@ export default async function LangHome({
 
       <Generator id="Generator" locale={dict.Feature} langName={langName} />
 
-      <ImageCarousel />
+      <section className=" w-[95%] px-4 sm:px-6 lg:px-8 pb-8 pt-8 md:pt-12 space-y-6">
+        <div className="flex justify-between items-center p-6">
+          <div className="bg-black">
+            <GoogleAdBanner
+              dataAdSlot="1230"
+              dataAdFormat="auto"
+              dataFullWidthResponsive={true}
+            />
+          </div>
+          <ImageCarousel />
+          <GoogleAdBanner
+            dataAdSlot="1231"
+            dataAdFormat="auto"
+            dataFullWidthResponsive={true}
+          />
+        </div>
+      </section>
 
       <SocialProof locale={dict.SocialProof} />
       {/* display technology stack, partners, project honors, etc. */}

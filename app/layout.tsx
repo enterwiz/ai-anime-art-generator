@@ -1,5 +1,6 @@
 import BaiDuAnalytics from "@/app/BaiDuAnalytics";
 import GoogleAnalytics from "@/app/GoogleAnalytics";
+import GoogleAdSense from "@/components/GoogleAdSense";
 import { TailwindIndicator } from "@/components/TailwindIndicator";
 import { ThemeProvider } from "@/components/ThemeProvider";
 import Footer from "@/components/footer/Footer";
@@ -9,9 +10,7 @@ import { defaultLocale } from "@/lib/i18n";
 import { cn } from "@/lib/utils";
 import "@/styles/globals.css";
 import "@/styles/loading.css";
-import {
-  ClerkProvider
-} from "@clerk/nextjs";
+import { ClerkProvider } from "@clerk/nextjs";
 import { Analytics } from "@vercel/analytics/react";
 import { Viewport } from "next";
 import { Inter as FontSans } from "next/font/google";
@@ -47,7 +46,9 @@ export default async function RootLayout({
   return (
     <ClerkProvider>
       <html lang={(lang && lang[0]) || defaultLocale} suppressHydrationWarning>
-        <head />
+        <head>
+          <GoogleAdSense pId={process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID} />
+        </head>
         <body
           className={cn(
             "min-h-screen bg-background font-sans antialiased",
